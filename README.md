@@ -21,8 +21,6 @@ This is an Android Application that suggets recepies based on the ingredeients a
 ![Screenshot_20180322-102256](https://user-images.githubusercontent.com/65604329/116873946-23934e80-ac36-11eb-9e3f-962e71392374.png)
 ![Screenshot_20180322-102303](https://user-images.githubusercontent.com/65604329/116873949-24c47b80-ac36-11eb-95c1-6ef5b6bb0006.png)
 ![Screenshot_20180322-102604](https://user-images.githubusercontent.com/65604329/116873950-255d1200-ac36-11eb-987c-f1ca52f0da7c.png)
-![Screenshot_20180309-084957](https://user-images.githubusercontent.com/65604329/116873955-268e3f00-ac36-11eb-8e3c-5d6fae2b8c51.png)
-![Screenshot_20180309-091344](https://user-images.githubusercontent.com/65604329/116873957-2726d580-ac36-11eb-9fd1-1363c780f03c.png)
 ![Screenshot_20180309-181302](https://user-images.githubusercontent.com/65604329/116873960-2726d580-ac36-11eb-92f9-53606cee8ba4.png)
 ![Screenshot_20180309-181311](https://user-images.githubusercontent.com/65604329/116873963-28580280-ac36-11eb-9324-e5c020a7b74c.png)
 ![Screenshot_20180309-181318](https://user-images.githubusercontent.com/65604329/116873966-28f09900-ac36-11eb-91b2-1b05329f8f83.png)
