@@ -6,9 +6,12 @@ This is an Android Application that suggets recepies based on the ingredeients a
 
 ![Screenshot_20180322-102141](https://user-images.githubusercontent.com/65604329/116874950-c1d3e400-ac37-11eb-9f6c-92a308cb2aad.png)
 ![Screenshot_20180309-181302](https://user-images.githubusercontent.com/65604329/116875126-03fd2580-ac38-11eb-971a-8a95d45986d6.png)
-![Screenshot_20180309-181340](https://user-images.githubusercontent.com/65604329/116875150-111a1480-ac38-11eb-9e91-66fa08db00b2.png)
-![Screenshot_20180309-181347](https://user-images.githubusercontent.com/65604329/116875154-124b4180-ac38-11eb-94ba-b062ce9bf927.png)
-![Screenshot_20180309-181335](https://user-images.githubusercontent.com/65604329/116875158-137c6e80-ac38-11eb-8ca7-75afcdf4dba5.png)
+
+![Screenshot_20180309-181311](https://user-images.githubusercontent.com/65604329/116875273-3f97ef80-ac38-11eb-9ad0-8c9dcbc6c314.png)
+![Screenshot_20180309-181318](https://user-images.githubusercontent.com/65604329/116875290-4888c100-ac38-11eb-874f-419aa39f44c0.png)
+![Screenshot_20180309-181335](https://user-images.githubusercontent.com/65604329/116875313-51799280-ac38-11eb-8b2a-dce7198a5e2e.png)
+![Screenshot_20180309-181407](https://user-images.githubusercontent.com/65604329/116875365-6ce49d80-ac38-11eb-8095-28622aef9850.png)
+
 
 
 
